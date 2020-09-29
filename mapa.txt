@@ -1,0 +1,12 @@
+Katowice Krakow 70
+Krakow Tarnow 70
+Tarnow Jaslo 50
+Katowice Gliwice 22
+Lodz Poznan 205
+Gliwice Katowice 22
+Katowice Czestochowa 70
+Czestochowa Lodz 120
+Lodz Torun 165
+Krakow Katowice 70
+Gliwice Wroclaw 180
+Mekka Turyn 1500

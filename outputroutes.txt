@@ -1,0 +1,40 @@
+trasa: Katowice --> Lodz (190 km):
+   Katowice --> Czestochowa         70
+   Czestochowa --> Lodz            120
+
+
+trasa: Mekka --> Krakow
+   TRASA NIEMOZLIWA DO WYZNACZENIA
+
+
+trasa: Mediolan --> Paryz
+   NIEPOPRAWNIE ZADANA TRASA
+
+
+trasa: Krakow --> Poznan (465 km):
+   Krakow --> Katowice              70
+   Katowice --> Czestochowa         70
+   Czestochowa --> Lodz            120
+   Lodz --> Poznan                 205
+
+
+trasa: Krakow --> Krakow (0 km):
+
+
+trasa: Katowice --> Torun (355 km):
+   Katowice --> Czestochowa         70
+   Czestochowa --> Lodz            120
+   Lodz --> Torun                  165
+
+
+trasa: Krakow --> Poznan (465 km):
+   Krakow --> Katowice              70
+   Katowice --> Czestochowa         70
+   Czestochowa --> Lodz            120
+   Lodz --> Poznan                 205
+
+
+trasa: Tarnow --> Wroclaw
+   TRASA NIEMOZLIWA DO WYZNACZENIA
+
+
